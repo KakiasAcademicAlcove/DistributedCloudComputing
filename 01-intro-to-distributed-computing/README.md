@@ -1,4 +1,4 @@
-# Introduction to Distributed Systems and Distributed Cloud Computing
+# Lecture 1: Introduction to Distributed Systems and Distributed Cloud Computing
 
 In this lecture, we will be introducing Distributed Computing  Systems, considering their characteristics, properties and models. 
 
