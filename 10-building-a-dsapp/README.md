@@ -1,4 +1,4 @@
-## 05 - Distributed Architectures
+## Lectures 10 and 11 - Building a cloud or distributed computing app 
 
 ### Introduction
 
