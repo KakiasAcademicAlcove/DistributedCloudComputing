@@ -2,7 +2,7 @@
 import pika
 
 connection = pika.BlockingConnection(
-    pika.ConnectionParameters(host='https://fluffy-palm-tree-rjj7g66g5g255jv.github.dev'))
+    pika.ConnectionParameters(host='172.17.0.1'))
 channel = connection.channel()
 
 channel.queue_declare(queue='hello')
